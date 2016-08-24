@@ -1,0 +1,30 @@
+_repo: Hand-Shadows-to-Be-Thrown-upon-the-Wall_12962
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 12962/12962-h/images/C005titleplate.gif
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Bursill, Henry
+    gutenberg_agent_id: '4743'
+    url: http://www.gutenberg.org/2009/agents/4743
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12962'
+language: en
+production_note: EBook produced by David Starner and Heather Martino
+publication_note: Originally published by Griffith and Farran in 1859.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shadow-pictures'
+- !lcc 'GV'
+- !lcsh 'Finger play'
+- GITenberg
+title: Hand Shadows to Be Thrown Upon the Wall
+url: http://www.gutenberg.org/ebooks/12962
